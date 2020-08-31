@@ -8,11 +8,13 @@ void triangleLU(int n);
 void triangleRU(int n);
 void triangleRB(int n);
 ///////////////
+//////// 17
+void spire(int n);
 
 int main()
 {
 	//triangleLB(5);
-	triangleRB(10);
+	//triangleRB(10);
 }
 
 void triangleLB(int n)
@@ -69,5 +71,14 @@ void triangleRB(int n)	// 오른쪽 아래가 직각
 		}
 
 		cout << endl;
+	}
+}
+
+void spire(int n)
+{
+	for (int i = 0; i < n; ++i)
+	{
+		int temp = i;
+		//for(int j = 0 ; j < )
 	}
 }

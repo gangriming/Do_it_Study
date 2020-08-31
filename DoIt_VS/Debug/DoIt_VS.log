@@ -1,2 +1,3 @@
-﻿  Q_16_17_18.cpp
-  DoIt_VS.vcxproj -> C:\Users\gangr\Desktop\DoitStudy\Do_it_Study\DoIt_VS\Debug\DoIt_VS.exe
+﻿  practice_2-4.cpp
+c:\users\gangr\onedrive\바탕 화면\doit\do_it_study\doit_vs\practice_2-4.cpp(9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  DoIt_VS.vcxproj -> C:\Users\gangr\OneDrive\바탕 화면\DoIT\Do_it_Study\DoIt_VS\Debug\DoIt_VS.exe
